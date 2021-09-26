@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Laryd
-- 👀 I’m interested in Web and App Dev
+- 👀 I’m interested in Python, React Web and App Dev
 - 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-- 📫 How to reach me lariomtech@gmail.com
 
 <!---
 Laryd/Laryd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
