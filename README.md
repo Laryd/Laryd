@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Laryd
-- 👀 I’m interested in Python, React Web and App Dev
-- 🌱 I’m currently learning React.js
+- 👀 Python, HTML, CSS, JS Developer.
 -- 📫 How to reach me lariomtech@gmail.com
 
 <!---
