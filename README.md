@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Laryd
-- 👀 Python, HTML, CSS, JS Developer.
--- 📫 How to reach me lariomtech@gmail.com
+- 👀 React, HTML, CSS, JS, AWS Developer.
+-- 📫 How to reach me hillarymuboka@gmail.com
 
 <!---
 Laryd/Laryd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
