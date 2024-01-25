@@ -49,12 +49,21 @@ Hey there! 👋 I'm Hillary Muboka, a passionate full-stack developer on a journ
 🛠️ HTML5 | CSS3 | Bootstrap | Tailwind CSS | Shadcn 
 🚢 Docker | AWS | GitHub Actions
 🌐 Notable Projects
-Scriptring.com
-Describe the project briefly and include any key features.
+
+### Scriptring.com
+
+Scriptring.com is a cutting-edge audio and video transcription platform that seamlessly converts multimedia content into accurate and readable text. Key features include:
+
+- **Efficient Transcription:** Advanced transcription technologies ensure high-quality and efficient conversion of audio and video files.
+- **User-Friendly Interface:** An intuitive and user-friendly platform, making transcription tasks easy and accessible.
+- **Customization Options:** Tailor the transcription process with customizable settings to meet diverse user needs.
+
 <p align="center">
   <img align="center" src="https://github.com/Laryd/Laryd/blob/main/working.webp" alt="transcription image">
-  </p>
+</p>
+
 Project 2: Another Cool Project
+
 Highlight the impact and technical aspects of this project.
 
 📫 Let's Connect!
