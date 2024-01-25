@@ -15,9 +15,18 @@ Hey there! 👋 I'm Hillary Muboka, a passionate full-stack developer on a journ
 
 ### 🧰 Tools
 
-### 🧰 Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" style="padding-right: 10px" align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30" style="padding-right: 10px" align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30" height="30" style="padding-right: 10px" align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="30" height="30" style="padding-right: 10px" align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="30" height="30" style="padding-right: 10px" align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Webpack" width="30" height="30" style="padding-right: 10px" align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="30" height="30" style="padding-right: 10px" align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30" style="padding-right: 10px" align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="30" height="30" style="padding-right: 10px" align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="30" height="30" style="padding-right: 10px" align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="30" height="30" style="padding-right: 10px" align="left">
 
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg | width=30) ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg | width=30) ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg | width=30) ![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg | width=30) ![Express.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg | width=30) ![Webpack](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg | width=30) ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg | width=30) ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg | width=30) ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg | width=30) ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg | width=30) ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg | width=30)
 
 
 
