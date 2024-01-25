@@ -14,6 +14,8 @@ Hey there! 👋 I'm Hillary Muboka, a passionate full-stack developer on a journ
 - 💡 Constantly exploring new technologies to stay on the cutting edge.
 - 🚀 Enthusiastic about building scalable and innovative solutions.
 
+---
+
 ### 🧰 Tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" style="padding-right: 10px" align="left">
@@ -37,7 +39,7 @@ Hey there! 👋 I'm Hillary Muboka, a passionate full-stack developer on a journ
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="30" height="30" style="padding-right: 10px"/>
           
 
-
+---
         
 
 ## 🔧 Tech Stack
