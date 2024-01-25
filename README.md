@@ -1,7 +1,11 @@
 # Hillary Muboka 🚀
 
 Hey there! 👋 I'm Hillary Muboka, a passionate developer on a journey to turn coffee into code. Welcome to my corner of the digital universe! 🌐✨
-![Cool Animated](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm1hYnUwY3M5NzR6ZTRlcmljYXNseG1pcmQ2eGNiMW95dDF3cGxqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif)
+<!-- Centered GIF -->
+<div style="text-align: center">
+  <img src="https://media.giphy.com/media/UEJ6DQQp68LJSnyaBb/giphy.gif" alt="Myself in gif form">
+</div>
+
 
 ## 👨‍💻 About Me
 
