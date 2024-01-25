@@ -51,7 +51,9 @@ Hey there! 👋 I'm Hillary Muboka, a passionate full-stack developer on a journ
 🌐 Notable Projects
 Scriptring.com
 Describe the project briefly and include any key features.
-
+<p align="center">
+  <img align="center" src="https://github.com/Laryd/Laryd/blob/main/working.webp" alt="transcription image">
+  </p>
 Project 2: Another Cool Project
 Highlight the impact and technical aspects of this project.
 
