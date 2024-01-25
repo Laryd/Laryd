@@ -48,8 +48,8 @@ Hey there! 👋 I'm Hillary Muboka, a passionate full-stack developer on a journ
 ⚡ JavaScript | TypeScript | React | Node.js | Express | MongoDB | SQL
 🛠️ HTML5 | CSS3 | Bootstrap | Tailwind CSS | Shadcn 
 🚢 Docker | AWS | GitHub Actions
-🌐 Projects
-Project 1: Scriptring.com
+🌐 Notable Projects
+Scriptring.com
 Describe the project briefly and include any key features.
 
 Project 2: Another Cool Project
