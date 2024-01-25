@@ -45,12 +45,14 @@ Hey there! 👋 I'm Hillary Muboka, a passionate full-stack developer on a journ
 
 ### Scriptring.com
 
-Scriptring.com is a cutting-edge audio and video transcription platform that seamlessly converts multimedia content into accurate and readable text. Key features include:
+Scriptring.com is a cutting-edge audio and video transcription platform that seamlessly converts multimedia content into accurate and readable text. It is a comprehensive web application that offers audio and video transcription services, featuring a secure user authentication system with role-based access control.
+Key features include:
 
 - **Efficient Transcription:** Advanced transcription technologies ensure high-quality and efficient conversion of audio and video files.
 - **User-Friendly Interface:** An intuitive and user-friendly platform, making transcription tasks easy and accessible.
 - **Customization Options:** Tailor the transcription process with customizable settings to meet diverse user needs.
-<a href="https://www.scriptring.com">www.scriptring.com</a>
+- <a href="https://www.scriptring.com">www.scriptring.com</a>
+
 
 
 ## 🔧 Tech Stack
