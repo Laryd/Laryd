@@ -2,9 +2,9 @@
 
 Hey there! 👋 I'm Hillary Muboka, a passionate developer on a journey to turn coffee into code. Welcome to my corner of the digital universe! 🌐✨
 <!-- Centered GIF -->
-<div style="text-align:center">
+<p style="text-align:center">
   <img src="https://media.giphy.com/media/UEJ6DQQp68LJSnyaBb/giphy.gif" alt="Myself in gif form">
-</div>
+</p>
 
 
 ## 👨‍💻 About Me
