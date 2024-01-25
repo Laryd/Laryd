@@ -59,7 +59,7 @@ Scriptring.com is a cutting-edge audio and video transcription platform that sea
 - **Customization Options:** Tailor the transcription process with customizable settings to meet diverse user needs.
 
 <p align="center">
-  <img align="center" src="https://github.com/Laryd/Laryd/blob/main/working.webp" alt="transcription image">
+  <img align="center" src="https://raw.github.com/Laryd/Laryd/blob/main/working.webp" alt="transcription image">
 </p>
 
 Project 2: Another Cool Project
