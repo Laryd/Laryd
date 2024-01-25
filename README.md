@@ -50,10 +50,7 @@ Scriptring.com is a cutting-edge audio and video transcription platform that sea
 - **Efficient Transcription:** Advanced transcription technologies ensure high-quality and efficient conversion of audio and video files.
 - **User-Friendly Interface:** An intuitive and user-friendly platform, making transcription tasks easy and accessible.
 - **Customization Options:** Tailor the transcription process with customizable settings to meet diverse user needs.
-
-<p align="center">
-  <img align="center" src="https://raw.github.com/Laryd/Laryd/blob/main/working.webp" alt="transcription image">
-</p>
+<a href="https://www.scriptring.com">www.scriptring.com</a>
 
 
 ## 🔧 Tech Stack
