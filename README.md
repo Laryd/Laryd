@@ -13,6 +13,8 @@ Hey there! 👋 I'm Hillary Muboka, a passionate full-stack developer on a journ
 - 💡 Constantly exploring new technologies to stay on the cutting edge.
 - 🚀 Enthusiastic about building scalable and innovative solutions.
 
+### Tools
+
 ## 🔧 Tech Stack
 
 ```markdown
