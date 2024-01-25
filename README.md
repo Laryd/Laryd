@@ -41,14 +41,7 @@ Hey there! 👋 I'm Hillary Muboka, a passionate full-stack developer on a journ
 
 ---
         
-
-## 🔧 Tech Stack
-
-```markdown
-⚡ JavaScript | TypeScript | React | Node.js | Express | MongoDB | SQL
-🛠️ HTML5 | CSS3 | Bootstrap | Tailwind CSS | Shadcn 
-🚢 Docker | AWS | GitHub Actions
-🌐 Notable Projects
+## 🌐 Notable Projects
 
 ### Scriptring.com
 
@@ -61,6 +54,17 @@ Scriptring.com is a cutting-edge audio and video transcription platform that sea
 <p align="center">
   <img align="center" src="https://raw.github.com/Laryd/Laryd/blob/main/working.webp" alt="transcription image">
 </p>
+
+
+## 🔧 Tech Stack
+
+```markdown
+⚡ JavaScript | TypeScript | React | Node.js | Express | MongoDB | SQL
+🛠️ HTML5 | CSS3 | Bootstrap | Tailwind CSS | Shadcn 
+🚢 Docker | AWS | GitHub Actions
+🌐 Notable Projects
+
+
 
 Project 2: Another Cool Project
 
