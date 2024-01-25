@@ -1,6 +1,7 @@
 # Hillary Muboka 🚀
 
 Hey there! 👋 I'm Hillary Muboka, a passionate developer on a journey to turn coffee into code. Welcome to my corner of the digital universe! 🌐✨
+![Cool Animated](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm1hYnUwY3M5NzR6ZTRlcmljYXNseG1pcmQ2eGNiMW95dDF3cGxqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif)
 
 ## 👨‍💻 About Me
 
@@ -12,18 +13,18 @@ Hey there! 👋 I'm Hillary Muboka, a passionate developer on a journey to turn 
 
 ```markdown
 ⚡ JavaScript | TypeScript | React | Node.js | Express | MongoDB | SQL
-🛠️ HTML5 | CSS3 | Bootstrap | Tailwind CSS
+🛠️ HTML5 | CSS3 | Bootstrap | Tailwind CSS | Shadcn 
 🚢 Docker | AWS | GitHub Actions
 🌐 Projects
-Project 1: Awesome Project
+Project 1: Scriptring.com
 Describe the project briefly and include any key features.
 
 Project 2: Another Cool Project
 Highlight the impact and technical aspects of this project.
 
 📫 Let's Connect!
-📧 Email: your.email@example.com
-🐦 Twitter: @yourtwitterhandle
+📧 Email: hillarymuboka@gmail.com
+🐦 X: @ghost_laryd
 
 
 
