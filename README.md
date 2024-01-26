@@ -54,8 +54,8 @@ Key features include:
 - **Customization Options:** Tailor the transcription process with customizable settings to meet diverse user needs.
 - <a href="https://www.scriptring.com" target="_blank">www.scriptring.com</a>
 - Uses: React.js | Next.js | Redux | Node.js | Express.js | MongoDB | GitHub Actions | Jest | Bootstrap | Styled Components | Lexical
-<img align="left" src="Screenshot(178).png"/>
-<img align="left" src="scriptringhome.png"/>
+<img align="left" width="100" height="100" src="Screenshot (178).png"/>
+<img align="left"  width="100" height="100" src="scriptringhome.png"/>
 
 ### Pixelstreamiptv
 PixelStreamIPTV is a robust web application meticulously crafted with cutting-edge technologies such as React, Node.js, and Express. Built with a sleek and intuitive interface, the platform empowers users to seamlessly subscribe to a variety of IPTV service packages. Leveraging the power of Tailwind CSS for responsive and stylish design, PixelStreamIPTV offers a modern and user-friendly experience, ensuring an immersive journey for subscribers to explore and enjoy diverse IPTV content.
