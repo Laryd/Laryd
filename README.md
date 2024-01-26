@@ -67,21 +67,9 @@ My portfolio website, built with Next.js and Styled Components, is a testament t
 
 - <a href="https://www.hillarymuboka.netlify.app" target="_blank">www.hillarymuboka.netlify.app</a>
 
-## 🔧 Tech Stack
+### 📫 Let's Connect!
 
 ```markdown
-⚡ JavaScript | TypeScript | React | Node.js | Express | MongoDB | SQL
-🛠️ HTML5 | CSS3 | Bootstrap | Tailwind CSS | Shadcn 
-🚢 Docker | AWS | GitHub Actions
-🌐 Notable Projects
-
-
-
-Project 2: Another Cool Project
-
-Highlight the impact and technical aspects of this project.
-
-📫 Let's Connect!
 📧 Email: hillarymuboka@gmail.com
 🐦 X: @ghost_laryd
 
