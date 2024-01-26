@@ -52,6 +52,7 @@ Key features include:
 - **User-Friendly Interface:** An intuitive and user-friendly platform, making transcription tasks easy and accessible.
 - **Customization Options:** Tailor the transcription process with customizable settings to meet diverse user needs.
 - <a href="https://www.scriptring.com">www.scriptring.com</a>
+- Uses: React.js | Next.js | Redux | Node.js | Express.js | MongoDB | GitHub Actions | Jest
 
 
 
