@@ -69,9 +69,8 @@ My portfolio website, built with Next.js and Styled Components, is a testament t
 
 ### 📫 Let's Connect!
 
-```markdown
-📧 Email: hillarymuboka@gmail.com
-🐦 X: @ghost_laryd
+-📧 Email: hillarymuboka@gmail.com
+-🐦 X: @ghost_laryd
 
 
 
