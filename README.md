@@ -67,10 +67,8 @@ PixelStreamIPTV is a robust web application meticulously crafted with cutting-ed
 <img align="center" width="250" height="200" src="image_2024-01-26_224019688.png"/>
 
 
-
-
-###Portfolio Website 
-My portfolio website, built with Next.js and Styled Components, is a testament to my proficiency in full-stack development. This platform not only highlights my skills in frontend technologies but also showcases my expertise in backend development. With a seamless integration of design aesthetics through Styled Components, the website offers a visually appealing and user-friendly experience. Explore various ** projects ** via direct links, providing a comprehensive view of my diverse skill set and contributions across the full technology stack.
+### Portfolio Website 
+My portfolio website, built with Next.js and Styled Components, is a testament to my proficiency in full-stack development. This platform not only highlights my skills in frontend technologies but also showcases my expertise in backend development. With a seamless integration of design aesthetics through Styled Components, the website offers a visually appealing and user-friendly experience. Explore various _projects_ via direct links, providing a comprehensive view of my diverse skill set and contributions across the full technology stack.
 
 - <a href="https://portfolio-next-six-vert.vercel.app" target="_blank">www.hillarymuboka.netlify.app</a>
 <img align="left"  width="250" height="200" src="Screenshot (182).png"/>
