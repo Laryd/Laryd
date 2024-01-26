@@ -62,7 +62,8 @@ Key features include:
 ### Pixelstreamiptv
 PixelStreamIPTV is a robust web application meticulously crafted with cutting-edge technologies such as React, Node.js, and Express. Built with a sleek and intuitive interface, the platform empowers users to seamlessly subscribe to a variety of IPTV service packages. Leveraging the power of Tailwind CSS for responsive and stylish design, PixelStreamIPTV offers a modern and user-friendly experience, ensuring an immersive journey for subscribers to explore and enjoy diverse IPTV content.
 - <a href="https://www.pixelstreamiptv.com" target="_blank">www.pixelstreamiptv.com</a>
-
+<img align="left"  width="250" height="200" src="screenshot (179).png"/>
+<img align="center" width="250" height="200" src="image_2024-01-26_223421646.png"/>
 
 
 
@@ -70,6 +71,7 @@ PixelStreamIPTV is a robust web application meticulously crafted with cutting-ed
 My portfolio website, built with Next.js and Styled Components, is a testament to my proficiency in full-stack development. This platform not only highlights my skills in frontend technologies but also showcases my expertise in backend development. With a seamless integration of design aesthetics through Styled Components, the website offers a visually appealing and user-friendly experience. Explore various projects via direct links, providing a comprehensive view of my diverse skill set and contributions across the full technology stack.
 
 - <a href="https://portfolio-next-six-vert.vercel.app" target="_blank">www.hillarymuboka.netlify.app</a>
+
 
 ### 📫 Let's Connect!
 
