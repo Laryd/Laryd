@@ -75,7 +75,7 @@ My portfolio website, built with Next.js and Styled Components, is a testament t
 - <a href="https://portfolio-next-six-vert.vercel.app" target="_blank">www.hillarymuboka.netlify.app</a>
 <img align="left"  width="250" height="200" src="Screenshot (182).png"/>
 <img align="left"  width="250" height="200" src="Screenshot (184).png"/>
-<img align="left"  width="250" height="200" src="image_2024-01-26_225542317.png"/>
+<img align="center"  width="250" height="200" src="image_2024-01-26_225542317.png"/>
 
 ### 📫 Let's Connect!
 
