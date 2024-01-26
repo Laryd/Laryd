@@ -46,19 +46,20 @@ Hey there! 👋 I'm Hillary Muboka, a passionate full-stack developer on a journ
 
 ### Scriptring.com
 
-Scriptring.com is a cutting-edge audio and video transcription platform that seamlessly converts multimedia content into accurate and readable text. It is a comprehensive web application that offers audio and video transcription services, featuring a secure user authentication system with role-based access control.
+Scriptring.com is a cutting-edge audio and video transcription platform that allows transcribers to seamlessly converts multimedia content into accurate and readable text. It is a comprehensive web application built in Next.js that offers audio and video transcription services, featuring a secure user authentication system with role-based access control.
 Key features include:
 
 - **Efficient Transcription:** Advanced transcription technologies ensure high-quality and efficient conversion of audio and video files.
 - **User-Friendly Interface:** An intuitive and user-friendly platform, making transcription tasks easy and accessible.
 - **Customization Options:** Tailor the transcription process with customizable settings to meet diverse user needs.
 - <a href="https://www.scriptring.com" target="_blank">www.scriptring.com</a>
-- Uses: React.js | Next.js | Redux | Node.js | Express.js | MongoDB | GitHub Actions | Jest | Bootstrap | Styled Components
+- Uses: React.js | Next.js | Redux | Node.js | Express.js | MongoDB | GitHub Actions | Jest | Bootstrap | Styled Components | Lexical
 
 
 ### Pixelstreamiptv
 PixelStreamIPTV is a robust web application meticulously crafted with cutting-edge technologies such as React, Node.js, and Express. Built with a sleek and intuitive interface, the platform empowers users to seamlessly subscribe to a variety of IPTV service packages. Leveraging the power of Tailwind CSS for responsive and stylish design, PixelStreamIPTV offers a modern and user-friendly experience, ensuring an immersive journey for subscribers to explore and enjoy diverse IPTV content.
 - <a href="https://www.pixelstreamiptv.com" target="_blank">www.pixelstreamiptv.com</a>
+<img align="center" src="working.webp"/>
 
 
 
