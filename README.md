@@ -40,40 +40,7 @@ Hey there! 👋 I'm Hillary Muboka, a passionate full-stack developer on a journ
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="30" height="30" style="padding-right: 10px"/>
           
 
----
-        
-## 🌐 Notable Projects
 
-### Scriptring.com
-
-Scriptring.com is a cutting-edge audio and video transcription platform that allows transcribers to seamlessly convert multimedia content into accurate and readable text. It is a comprehensive web application built in Next.js that offers audio and video transcription services, featuring a secure user authentication system with role-based access control.
-Key features include:
-
-- **Efficient Transcription:** Advanced transcription technologies ensure high-quality and efficient conversion of audio and video files.
-- **User-Friendly Interface:** An intuitive and user-friendly platform, making transcription tasks easy and accessible.
-- **Customization Options:** Tailor the transcription process with customizable settings to meet diverse user needs.
-- <a href="https://www.scriptring.com" target="_blank">www.scriptring.com</a>
-- Uses: React.js | Next.js | Redux | Node.js | Express.js | MongoDB | GitHub Actions | Jest | Bootstrap | Styled Components | Lexical
-<img align="left"  width="250" height="200" src="scriptringhome.png"/>
-<img align="left" width="250" height="200" src="Screenshot (178).png"/>
-<img align="center" width="250" height="200" src="scriptring.gif"/>
-
-
-### Pixelstreamiptv
-PixelStreamIPTV is a robust web application meticulously crafted with cutting-edge technologies such as React, Node.js, and Express. Built with a sleek and intuitive interface, the platform empowers users to seamlessly subscribe to a variety of IPTV service packages. Leveraging the power of Tailwind CSS for responsive and stylish design, PixelStreamIPTV offers a modern and user-friendly experience, ensuring an immersive journey for subscribers to explore and enjoy diverse IPTV content.
-- <a href="https://www.pixelstreamiptv.com" target="_blank">www.pixelstreamiptv.com</a>
-<img align="left"  width="250" height="200" src="Screenshot (179).png"/>
-<img align="left" width="250" height="200" src="image_2024-01-26_223421646.png"/>
-<img align="center" width="250" height="200" src="image_2024-01-26_224019688.png"/>
-
-
-### Portfolio Website 
-My portfolio website, built with Next.js and Styled Components, is a testament to my proficiency in full-stack development. This platform not only highlights my skills in frontend technologies but also showcases my expertise in backend development. With a seamless integration of design aesthetics through Styled Components, the website offers a visually appealing and user-friendly experience. Explore various **_projects_** via direct links, providing a comprehensive view of my diverse skill set and contributions across the full technology stack.
-
-- <a href="https://portfolio-next-six-vert.vercel.app" target="_blank">www.hillarymuboka.netlify.app</a>
-<img align="left"  width="250" height="200" src="Screenshot (182).png"/>
-<img align="left"  width="250" height="200" src="Screenshot (184).png"/>
-<img align="center"  width="250" height="200" src="image_2024-01-26_225542317.png"/>
 
 ### 📫 Let's Connect!
 
