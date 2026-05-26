@@ -6,7 +6,7 @@
 
 <br>
 
-Full-stack developer based in Nairobi. I build things that have to work — payroll engines, HRMS platforms, billing systems — across Kenya, the GCC, Southern Africa, India, and the UK.
+Full-stack developer based in Nairobi. I build things that have to work — payroll engines, HRMS platforms, ISP billing systems, POS systems, farm management tools — across Kenya, the GCC, Southern Africa, India, and the UK.
 
 I got into software through electrical engineering, taught myself the rest, and haven't stopped building since.
 
@@ -40,7 +40,7 @@ I got into software through electrical engineering, taught myself the rest, and 
 
 Electrical and Telecommunications Engineering graduate who ended up in software. I think that path shows in how I build — I care about systems, not just features. How things fail. What happens at scale. Whether the output is actually correct.
 
-Most of my work lives in payroll and HR infrastructure — the unglamorous side of software that has to be right because people's salaries depend on it.
+I've worked across HR, payroll, telecoms billing, agriculture, and retail — the unglamorous side of software that has to be right because real operations depend on it.
 
 ---
 
