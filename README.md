@@ -8,7 +8,7 @@
 
 Full-stack developer based in Nairobi. I build things that have to work — payroll engines, HRMS platforms, ISP billing systems, POS systems, farm management tools — across Kenya, the GCC, Southern Africa, India, and the UK.
 
-I got into software through electrical engineering, taught myself the rest, and haven't stopped building since.
+Started with circuits. Ended up here.
 
 ---
 
